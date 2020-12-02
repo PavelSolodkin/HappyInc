@@ -1,0 +1,10 @@
+@import url(./__man/category__man.css);
+@import url(./__quant/category__quant.css);
+@import url(./__line/category__line.css);
+
+.category {
+  min-height: 100px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+}

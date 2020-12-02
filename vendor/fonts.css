@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "GothPro";
+  font-style: normal;
+  src: url("./fonts/GothPro.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "GothamPro";
+  font-style: normal;
+  src: url("./fonts/GothamPro.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Arial-Bold";
+  font-style: normal;
+  src: url("./fonts/Arial-Bold.ttf") format("truetype");
+}

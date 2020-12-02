@@ -1,0 +1,14 @@
+@import url(./__loyal/donut__loyal.css);
+@import url(./__middle/donut__middle.css);
+@import url(./__number-one/donut__number-one.css);
+@import url(./__number-pers/donut__number-pers.css);
+@import url(./__number-three/donut__number-three.css);
+@import url(./__number-two/donut__number-two.css);
+@import url(./__word/donut__word.css);
+
+.donut {
+  -moz-transform: translateY(0.25em);
+  -ms-transform: translateY(0.25em);
+  -webkit-transform: translateY(0.25em);
+  transform: translateY(0.25em);
+}

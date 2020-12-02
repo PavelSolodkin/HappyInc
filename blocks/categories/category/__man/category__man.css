@@ -1,0 +1,8 @@
+.category__man {
+  min-width: 400px;
+  margin: 0;
+  font-family: "Arial-Bold";
+  font-size: 3em;
+  line-height: 1;
+  color: dimgray;
+}

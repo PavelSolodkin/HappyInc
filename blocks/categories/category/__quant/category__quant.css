@@ -1,0 +1,13 @@
+@import url(./__number/category__number.css);
+@import url(./__number/_type/category__number_one.css);
+@import url(./__pers/category__pers.css);
+
+.category__quant {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.category__quant:last-child {
+  border: 1px solid red;
+}

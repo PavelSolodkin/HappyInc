@@ -1,0 +1,13 @@
+@import url(./flag.css);
+@import url(./svg-1.css);
+@import url(./svg-2.css);
+@import url(./svg-3.css);
+@import url(../donut/donut.css);
+@import url(../categories/categories.css);
+
+.main {
+  width: 1440px;
+  margin: 50px auto;
+  position: relative;
+  background-color: whitesmoke;
+}

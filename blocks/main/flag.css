@@ -1,0 +1,8 @@
+.flag {
+  position: absolute;
+  top: 25px;
+  left: 600px;
+  width: 250px;
+  height: 250px;
+  opacity: 0.1;
+}

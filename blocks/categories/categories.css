@@ -1,0 +1,10 @@
+@import url(./category/category.css);
+
+.categories {
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 450px;
+  /* border: 1px solid red; */
+}

@@ -1,0 +1,13 @@
+@import url(./__color/category__color.css);
+@import url(./__color/_type/category__color_type_small.css);
+@import url(./__color-two/category__color-two.css);
+@import url(./__color-two/_type/category__color-two_type_big.css);
+
+.category__line {
+  width: 400px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  border-radius: 15px;
+}

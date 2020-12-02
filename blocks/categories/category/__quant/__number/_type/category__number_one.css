@@ -1,0 +1,12 @@
+.category__number_type_one {
+  width: 70px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 15px;
+  padding-left: 20px;
+  font-family: "Arial-Bold";
+  font-size: 2em;
+  line-height: 1;
+  color: #afafaf;
+}

@@ -1,0 +1,12 @@
+.category__color-num {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 30px;
+  left: 250px;
+  margin: 0;
+  font-family: "Arial-Bold";
+  font-size: 2em;
+  line-height: 1;
+  color: dimgray;
+}

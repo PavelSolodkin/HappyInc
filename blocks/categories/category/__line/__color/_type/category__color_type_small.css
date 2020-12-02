@@ -1,0 +1,8 @@
+.category__color_type_small {
+  width: 25%;
+  height: 75px;
+  display: flex;
+  flex-direction: row;
+  border-top-left-radius: 15px;
+  position: relative;
+}
